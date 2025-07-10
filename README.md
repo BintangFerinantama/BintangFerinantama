@@ -1,8 +1,8 @@
 <!-- 🎮 Cyberpunk Pixel Terminal README by @bintang99 -->
 
-<!-- 🚀 Banner Cyberpunk Pixel Art -->
+<!-- 🚀 Banner GIF Cyberpunk (Lucy) -->
 <p align="center">
-  <img src="https://i.imgur.com/ZufJcGX.jpg" width="720" alt="Cyberpunk Pixel Art" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzh1eWpuNHVtNXpyczRxOWduN21raWRnbmlnNzdrZ21rbmkzank5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RZS3CFDNepxPniU0CE/giphy.gif" width="720" alt="Cyberpunk GIF Lucy" />
 </p>
 
 <!-- 👾 Typing Effect -->
