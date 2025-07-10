@@ -2,7 +2,7 @@
 
 <!-- 🚀 Banner Cyberpunk Pixel Art -->
 <p align="center">
-  <img src="https://i.imgur.com/qkdpN.jpg" width="720" alt="Cyberpunk Pixel Art" />
+  <img src="https://i.imgur.com/ZufJcGX.jpg" width="720" alt="Cyberpunk Pixel Art" />
 </p>
 
 <!-- 👾 Typing Effect -->
@@ -13,5 +13,4 @@
 ---
 
 ### 💾 SYSTEM BOOT LOG
-
 
