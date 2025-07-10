@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Bintang Ferinantama</h1>
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Lampung+University;FPS-Game-Rats" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=22&pause=1000&color=F716C3&background=FF3B3B00&center=true&vCenter=true&width=435&lines=A+Computer+Science+Student;From+Lampung+University" />
     </div>  
 
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
