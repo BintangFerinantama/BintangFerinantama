@@ -2,9 +2,9 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzh1eWpuNHVtNXpyczRxOWduN21raWRnbmlnNzdrZ21rbmkzank5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RZS3CFDNepxPniU0CE/giphy.gif" width="360" alt="Cyberpunk GIF Lucy" />
 </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Bintang Ferinantama</h1>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=💻+Computer+Science+Student;🏫+From+Lampung+University;🎯+FPS+Game+Rats" alt="Cyberpunk Headline" />
-</div>
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Lampung+University;FPS-Game-Rats" alt="Headline" />
+    </div>  
 
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
